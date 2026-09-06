@@ -1,7 +1,7 @@
 ---
 name: kahneman-skill
 description: Behavioral-finance and antifragile risk coach before any trade.
-version: 1.2.0
+version: "1.02"
 author: taraway
 license: MIT
 ---

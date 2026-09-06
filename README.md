@@ -1,10 +1,10 @@
 # kahneman-skill
 
-Agent Skill v1.2：卡尼曼行为金融学 + 塔勒布反脆弱风控。买卖前做四重模式象限诊断、WYSIATI 盲区探测与系统2校验。
+Agent Skill v1.02：卡尼曼行为金融学 + 塔勒布反脆弱风控。买卖前做四重模式象限诊断、WYSIATI 盲区探测与系统2校验。
 
 兼容 Claude Code、Cursor、Codex、Hermes 及其他读取 `SKILL.md` 的助手。
 
-版本记录见 [Releases](https://github.com/taraway/kahneman-skill/releases) 和 [CHANGELOG.md](CHANGELOG.md)。当前 **v1.2.0**。
+版本记录见 [Releases](https://github.com/taraway/kahneman-skill/releases) 和 [CHANGELOG.md](CHANGELOG.md)。当前 **v1.02**。
 
 ## 安装
 
