@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.0](https://github.com/taraway/kahneman-skill/releases/tag/v1.2.0) — 2026-09-06
+
+相对 1.1：决策权重从两条效应升级为前景理论「四重模式」2×2 象限诊断。
+
+- 新增高/低概率 × 收益/损失 四个象限的定位与纠偏
+- Step 1 改为偏好度四重模式定位
+- 输出主栏改为四重模式诊断；灾难推演与反脆弱合并为一栏
+- 哲学层压缩：估值锚定与心理账户合并；保留 WYSIATI
+
 ## [1.1.0](https://github.com/taraway/kahneman-skill/releases/tag/v1.1.0) — 2026-09-06
 
 相对 1.0：从「纠偏冲动」扩展为「纠偏 + 探测信息盲区」。
