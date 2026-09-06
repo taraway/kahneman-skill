@@ -1,6 +1,6 @@
 # kahneman-skill
 
-Agent Skill：卡尼曼行为金融学 + 塔勒布反脆弱风控。在买卖决策前强制走「系统2」校验。
+Agent Skill v1.1：卡尼曼行为金融学 + 塔勒布反脆弱风控。买卖决策前强制「系统2」校验，并做 WYSIATI 盲区探测。
 
 兼容 Claude Code、Cursor、Codex、Hermes 及其他读取 `SKILL.md` 的助手。
 
