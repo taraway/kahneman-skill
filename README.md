@@ -4,6 +4,8 @@ Agent Skill v1.1：卡尼曼行为金融学 + 塔勒布反脆弱风控。买卖�
 
 兼容 Claude Code、Cursor、Codex、Hermes 及其他读取 `SKILL.md` 的助手。
 
+版本记录见 [Releases](https://github.com/taraway/kahneman-skill/releases) 和 [CHANGELOG.md](CHANGELOG.md)。当前 **v1.1.0**。
+
 ## 安装
 
 把本仓库克隆到各产品的 skills 目录，或直接安装：
