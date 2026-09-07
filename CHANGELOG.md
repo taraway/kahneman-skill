@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.03](https://github.com/taraway/kahneman-skill/releases/tag/v1.03) — 2026-09-06
+
+相对 1.02：在四重模式之上增加「决策效用 vs 体验效用」错位审判。
+
+- 新增效用错位：拒绝为买入瞬间的多巴胺承担无法承受的持仓体验
+- Step 1 改为偏好度与效用诊断（象限 + 效用拷问）
+- 输出主栏改为「心智与效用诊断」
+- 估值锚定收紧为 PE / PB / FCF Yield，明确拒绝无锚投机
+
 ## [1.02](https://github.com/taraway/kahneman-skill/releases/tag/v1.02) — 2026-09-06
 
 相对 1.01：决策权重从两条效应升级为前景理论「四重模式」2×2 象限诊断。
