@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.04](https://github.com/taraway/kahneman-skill/releases/tag/v1.04) — 2026-09-07
+
+相对 1.03：补上基础概率、光环效应、结果偏见；Step 2 改为叙事粉碎。
+
+- 新增 Base Rate：用历史成败概率对抗个股宏大叙事
+- 新增光环效应破除：好公司 ≠ 好价格
+- 新增结果偏见剥离：评决策过程，不评单次结果
+- 角色改为「风控导师」；报告名改为《全维度决策校验报告》
+- 反脆弱增加盈亏比对称与期权对冲
+
 ## [1.03](https://github.com/taraway/kahneman-skill/releases/tag/v1.03) — 2026-09-06
 
 相对 1.02：在四重模式之上增加「决策效用 vs 体验效用」错位审判。
